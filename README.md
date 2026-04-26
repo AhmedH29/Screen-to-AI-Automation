@@ -2,6 +2,7 @@
 Python Screen Capture - OCR - Autogui AI Prompt
 
 
+
 PIP install all the plugins 
 
 Open a function
